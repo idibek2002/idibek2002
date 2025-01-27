@@ -9,5 +9,3 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tajikistan.
 
 ## Hi there 👋
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idibek)](https://github.com/idibek2002/github-readme-stats)
